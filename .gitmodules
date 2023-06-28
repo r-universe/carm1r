@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "fruclimadapt"]
 	path = fruclimadapt
 	url = https://github.com/carm1r/fruclimadapt
-	shallow = true
-	registered = true
